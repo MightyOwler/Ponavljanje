@@ -6,7 +6,6 @@ start_time = time.time()
 zgodovinski_dogodki = {
     "Napad na Bastilijo":"1789",
     "Odkritje Amerike" : "1492",
-    "Rojstni dan" : "13.9",
 }
 
 seznam_dogodkov = [i for i in range(len(zgodovinski_dogodki.keys()))]
