@@ -3,6 +3,8 @@ import time
 import random
 start_time = time.time()
 
+
+#tukaj se vnese vse potrebno
 zgodovinski_dogodki = {
     "Napad na Bastilijo":"1789",
     "Odkritje Amerike" : "1492",
